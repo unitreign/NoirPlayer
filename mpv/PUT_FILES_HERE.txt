@@ -1,0 +1,9 @@
+Place the following files in this folder:
+
+  mpv.exe       — from mpv-x86_64-[date].7z
+  mpv-2.dll     — from mpv-dev-x86_64-[date].7z (rename libmpv-2.dll to mpv-2.dll)
+
+Download both from:
+https://github.com/shinchiro/mpv-winbuild-cmake/releases
+
+See the README for full instructions.
